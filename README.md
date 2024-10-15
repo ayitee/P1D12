@@ -1,8 +1,6 @@
 # P1 Day 12
 # Recap of Techniques Learned
 
-This README provides a summary of the key techniques and concepts learned and applied throughout the exercises in this project.
-
 ## 1. **Variables & Data Types (JavaScript)**
    - Used to store and manipulate data.
    - Common data types include `string`, `number`, `boolean`, `array`, and `object`.
@@ -55,5 +53,3 @@ This README provides a summary of the key techniques and concepts learned and ap
    - Comments should be concise, explain core functionality, and avoid cluttering.
 
 ---
-
-This README provides an overview of the major concepts you've learned, as reflected in the exercises. They are essential for writing clean, maintainable, and functional code, both in JavaScript and CSS.
